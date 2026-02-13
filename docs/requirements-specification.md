@@ -1,5 +1,5 @@
 # Re-Carioca Project  
-## Requirements Specification 
+## 📄 Requirements Specification 
 
 ---
 
