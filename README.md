@@ -83,7 +83,7 @@ The data model ensures traceability of donated items, structured distribution co
 
 ### 📄 Documentation
 
-- [Requirements Documentation](docs/levantamento-requisitos.md)
+- [Requirements Documentation](docs/requirements-specification.md)
 
 ---
 
