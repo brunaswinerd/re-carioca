@@ -1,6 +1,5 @@
-# Requirements Specification  
-## Re-Carioca Project  
-Academic Extension Project – Web Front-End
+# Re-Carioca Project  
+## Requirements Specification 
 
 ---
 
