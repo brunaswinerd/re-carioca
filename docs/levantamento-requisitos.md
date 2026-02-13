@@ -1,5 +1,5 @@
-# 📄 Levantamento de Requisitos  
-Projeto Acadêmico de Extensão em Web Front–End
+# Projeto Re-Carioca
+## 📄 Levantamento de Requisitos  
 
 ---
 
